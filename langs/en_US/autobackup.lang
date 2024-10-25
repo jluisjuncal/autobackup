@@ -1,0 +1,63 @@
+# Copyright (C) 2019 SuperAdmin
+#
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+#
+# Generic
+#
+
+# Module label 'ModuleautobackupName'
+ModuleautobackupName = AutoBackup
+# Module description 'ModuleautobackupDesc'
+ModuleautobackupDesc = Dolibarr Auto Backup
+
+#
+# Admin page
+#
+autobackupSetup = autobackup setup
+Settings = Settings
+autobackupSetupPage = autobackup setup page
+AUTOBACKUP_DAYS = Backup interval (days)
+AUTOBACKUP_DAYSTooltip = Generate auto backup every interval days
+AUTOBACKUP_SENDTOFTP=Send to ftp
+AUTOBACKUP_SENDTOFTPTooltip=Send to ftp when backup is generated
+AUTOBACKUP_FTPSERVER=FTP server
+AUTOBACKUP_FTPSERVERTooltip=FTP server
+AUTOBACKUP_FTPUSER=FTP user
+AUTOBACKUP_FTPUSERTooltip=FTP user
+AUTOBACKUP_FTPPASSWORD=FTP Password
+AUTOBACKUP_FTPPASSWORDTooltip=FTP Password
+AUTOBACKUP_FTPREMOTEPATH=Remote path (Optional)
+AUTOBACKUP_FTPREMOTEPATHTooltip=Remote path (Optional)
+AUTOBACKUP_FTPOVERWRITE=Overwrite remote file
+AUTOBACKUP_FTPOVERWRITETooltip=Overwrite remote file
+
+
+#
+# About page
+#
+About = About
+autobackupAbout = About autobackup
+autobackupAboutPage = autobackup about page
+
+#
+# Sample page
+#
+MyPageName = My page name
+
+#
+# Sample widget
+#
+MyWidget = My widget
+MyWidgetDescription = My widget description
